@@ -1,5 +1,5 @@
 ---
-title: Statistics, R, Graphics and Fun
+title: Machine Learning, Programming
 layout: page
 ---
 
